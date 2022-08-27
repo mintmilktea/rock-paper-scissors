@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Rock paper scissors game for TOP!
+Rock paper scissors game
